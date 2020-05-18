@@ -2,8 +2,8 @@
 Changelog for package roboticsgroup_gazebo_plugins
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2020-05-18)
+------------------
 * changed maintainers
 * Merge pull request `#14 <https://github.com/LCAS/roboticsgroup_gazebo_plugins/issues/14>`_ from roboticsgroup/pid_ns
   Add option to change the namespace of the pid
